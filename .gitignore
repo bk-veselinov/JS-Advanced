@@ -1,0 +1,39 @@
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+dist/
+build/
+coverage/
+.cache/
+.parcel-cache/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Archives
+*.zip
+*.rar
+
+# Python (some homework includes Python)
+__pycache__/
+*.py[cod]
+venv/
+.venv/
